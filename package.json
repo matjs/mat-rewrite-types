@@ -1,0 +1,22 @@
+{
+  "name": "mat-rewrite-types",
+  "version": "1.0.0",
+  "description": "对接mat-rewrite，支持访问.ts/.es/.mx类型的文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matjs/mat-rewrite-types.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matjs/mat-rewrite-types/issues"
+  },
+  "homepage": "https://github.com/matjs/mat-rewrite-types#readme",
+  "dependencies": {
+    "fs-extra": "5.0.0"
+  }
+}
