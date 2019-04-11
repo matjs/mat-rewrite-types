@@ -1,6 +1,6 @@
 {
   "name": "mat-rewrite-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对接mat-rewrite，支持访问.ts/.es/.mx类型的文件",
   "main": "index.js",
   "scripts": {
